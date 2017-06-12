@@ -9,7 +9,7 @@ SMK Telkom Malang<br> <br>
 
 Alamat API yang digunakan pada Aplikasi : https://www.themoviedb.org/documentation/api <br><br>
 
-Navigasi yang digunakan : Navigasi Tab <br><br>
+Navigasi yang digunakan : Navigasi Drawer <br><br>
 
 Menggunakan SQLite Dasar<br><br>
 
