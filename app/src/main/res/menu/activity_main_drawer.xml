@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Now Playing" />
+        <item
+            android:id="@+id/nav_mingso"
+            android:icon="@drawable/ic_arrow_forward_black_24dp"
+            android:title="Popular Movie" />
+        <item
+            android:id="@+id/nav_fav"
+            android:icon="@drawable/ic_star_black_24dp"
+            android:title="Favorite" />
+    </group>
+
+</menu>
