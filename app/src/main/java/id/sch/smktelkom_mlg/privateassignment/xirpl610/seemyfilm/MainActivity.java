@@ -92,10 +92,10 @@ public class MainActivity extends AppCompatActivity
         if (id == R.id.nav_home) {
             fragment = new HomeFragment();
             setTitle("Now Playing");
-        } else if (id == R.id.nav_home) {
+        } else if (id == R.id.nav_slideshow) {
             fragment = new PopularFragment();
             setTitle("Popular Movie");
-        } else if (id == R.id.nav_mingso) {
+        } else if (id == R.id.nav_manage) {
             fragment = new FavouriteFragment();
             setTitle("Favorite");
         }

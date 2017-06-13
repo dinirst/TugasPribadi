@@ -7,13 +7,14 @@
             android:icon="@drawable/ic_home_black_24dp"
             android:title="Now Playing" />
         <item
-            android:id="@+id/nav_mingso"
-            android:icon="@drawable/ic_arrow_forward_black_24dp"
-            android:title="Popular Movie" />
-        <item
-            android:id="@+id/nav_fav"
+            android:id="@+id/nav_slideshow"
             android:icon="@drawable/ic_star_black_24dp"
             android:title="Favorite" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_arrow_forward_black_24dp"
+            android:title="Popular Movie" />
+
     </group>
 
 </menu>
